@@ -1,6 +1,6 @@
 baseURL = "https://kayaresep.web.app/"
 languageCode = "en-us"
-title = "Resep Makanan enak tapi simple"
+title = "Kaya Resep"
 theme = "z"
 
 
@@ -14,7 +14,7 @@ theme = "z"
 [params]
   description = "Kumpulan ide memasak harian, mudah diolah di dapur Anda"
   topdescription = "Temukan berbagai pilihan resep masakan, tak perlu bingung lagi masak apa hari ini"
-  toptitle = "Lebih dari 8.000 resep yang siap disajikan di dapur Anda, lebih menyehatkan bagi keluarga tercinta"
+  toptitle = "Kaya Resep"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
